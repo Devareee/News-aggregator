@@ -1,0 +1,102 @@
+{
+  "0": {
+        "site_url": "https://news.mail.ru/politics/",
+        "article": "newsitem newsitem_height_fixed js-ago-wrapper js-pgng_item",
+        "article_title": "newsitem__title link-holder",
+        "article_text": "newsitem__text",
+        "article_url": "newsitem__title link-holder",
+        "title": "a",
+        "text": "span",
+        "num": "2"
+    },
+  "1": {
+        "site_url": "https://news.mail.ru/society/",
+        "article": "newsitem newsitem_height_fixed js-ago-wrapper js-pgng_item",
+        "article_title": "newsitem__title link-holder",
+        "article_text": "newsitem__text",
+        "article_url": "newsitem__title link-holder",
+        "title": "a",
+        "text": "span",
+        "num": "2"
+    },
+  "2": {
+        "site_url": "https://news.mail.ru/incident/",
+        "article": "newsitem newsitem_height_fixed js-ago-wrapper js-pgng_item",
+        "article_title": "newsitem__title link-holder",
+        "article_text": "newsitem__text",
+        "article_url": "newsitem__title link-holder",
+        "title": "a",
+        "text": "span",
+        "num": "2"
+    },
+  "3": {
+        "site_url": "https://news.mail.ru/economics/",
+        "article": "newsitem newsitem_height_fixed js-ago-wrapper js-pgng_item",
+        "article_title": "newsitem__title link-holder",
+        "article_text": "newsitem__text",
+        "article_url": "newsitem__title link-holder",
+        "title": "a",
+        "text": "span",
+        "num": "2"
+    },
+  "4": {
+        "site_url": "https://e-news.su",
+        "article": "news-text",
+        "article_title": "",
+        "article_text": "news-desc",
+        "article_url": "",
+        "title": "span",
+        "text": "div",
+        "num": "1"
+    },
+  "5": {
+        "site_url": "https://e-news.su/svodki-opolcheniya/",
+        "article": "news-text",
+        "article_title": "",
+        "article_text": "news-desc",
+        "article_url": "",
+        "title": "span",
+        "text": "div",
+        "num": "1"
+    },
+  "6": {
+        "site_url": "https://e-news.su/in-russia/",
+        "article": "news-text",
+        "article_title": "",
+        "article_text": "news-desc",
+        "article_url": "",
+        "title": "span",
+        "text": "div",
+        "num": "1"
+    },
+  "7": {
+        "site_url": "https://e-news.su/v-belorussii/",
+        "article": "news-text",
+        "article_title": "",
+        "article_text": "news-desc",
+        "article_url": "",
+        "title": "span",
+        "text": "div",
+        "num": "1"
+    },
+  "8": {
+        "site_url": "https://e-news.su/economy/",
+        "article": "news-text",
+        "article_title": "",
+        "article_text": "news-desc",
+        "article_url": "",
+        "title": "span",
+        "text": "div",
+        "num": "1"
+    },
+  "9": {
+        "site_url": "https://e-news.su/crime/",
+        "article": "news-text",
+        "article_title": "",
+        "article_text": "news-desc",
+        "article_url": "",
+        "title": "span",
+        "text": "div",
+        "num": "1"
+    }
+}
